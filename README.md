@@ -26,7 +26,7 @@ A curated list of tools that can be used for creating interactive mathematical e
 
  - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
  - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions/), Marc ten Bosch
- - [A primer on Bézier curves](https://pomax.github.io/bezierinfo/), Mike Kamermans
+ - [A primer on Bézier curves](https://pomax.github.io/bezierinfo/), Pomax
  - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion/), Ricky Reusser
  - [Tesseract](https://ciechanow.ski/tesseract/), Bartosz Ciechanowski
  - [Visualizing Geodesics on Surfaces](https://analyticphysics.com/General%20Relativity/Visualizing%20Geodesics%20on%20Surfaces.htm), Paul Masson
